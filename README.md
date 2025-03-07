@@ -55,7 +55,7 @@ Tento projekt slouží k automatickému přihlašování do systému SkolaOnline
    ```
 4. Zadejte název souboru s POST daty, například:
    ```
-   napiš název souboru na data například postdata.txt
+   např. postdata.txt
    ```
 5. Po úspěšném přihlášení a zpracování požadavku se HTML odpověď uloží do `output.html`.
 
