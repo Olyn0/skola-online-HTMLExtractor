@@ -1,0 +1,6 @@
+URL=https://aplikace.skolaonline.cz/SOL/App/Kalendar/KZK001_KalendarTyden.aspx
+__EVENTTARGET=calendarPart$kalendar
+calendarPart_kalendar=%3Cx%20PostData%3D%222025x3x2025x2x12x1%22%3E%3C/x%3E
+calendarPart$kalendar$RBSelectionMode=Week
+CBZobrazitRozvrh=on
+CBZobrazitHodnoceni=on
