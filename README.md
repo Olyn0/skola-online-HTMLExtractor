@@ -19,7 +19,7 @@ Tento projekt slouží k automatickému přihlašování do systému SkolaOnline
    ```
 2. Nainstalujte požadované knihovny:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Použití
