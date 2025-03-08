@@ -15,7 +15,6 @@ Tento projekt slouží k automatickému přihlašování do systému SkolaOnline
 1. Naklonujte repozitář:
    ```bash
    git clone <URL_REPOZITÁŘE>
-   cd <NÁZEV_SLOŽKY>
    ```
 2. Nainstalujte požadované knihovny:
    ```bash
