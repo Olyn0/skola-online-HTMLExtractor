@@ -1,0 +1,18 @@
+URL=https://aplikace.skolaonline.cz/SOL/App/Zpravy/KZZ005_PrijateZpravy.aspx
+__EVENTTARGET=ctl00$main$uwt$ctl00$zg$wg1
+#                                                                  OD    RRRRxMMxDD
+ctl00$main$uwt$ctl00$zg$dbOd$wdcDatum_hidden=%3CDateChooser%20Value%3D%222025x3x1%22%3E%3C/DateChooser%3E
+#                                                                  DO    RRRRxMMxDD
+ctl00$main$uwt$ctl00$zg$dbDo$wdcDatum_hidden=%3CDateChooser%20Value%3D%222025x3x10%22%3E%3C/DateChooser%3E
+
+ctl00_main_uwt_ctl00_zg_dbOd_wdcDatum_DrpPnl1_DP_CAL_ID_1=%3Cx%20PostData%3D%222025x3x-1x-1x-1%22%3E%3C/x%3E
+ctl00_main_uwt_ctl00_zg_dbDo_wdcDatum_DrpPnl2_DP_CAL_ID_2=%3Cx%20PostData%3D%222025x3x-1x-1x-1%22%3E%3C/x%3E
+ctl00$main$uwt$ctl00$zg$OZNAM=rbVsechna
+wg1_UWGridColumnHiddens=2#0#0#0#0#1#0#1#2#2
+wg1_UWGridColumnsCount=10
+wg1_DownloadName=Zpravy
+wg1_Rozsah=VSE
+
+
+
+
