@@ -1,6 +1,0 @@
-URL=https://aplikace.skolaonline.cz/SOL/App/Hodnoceni/KZH001_HodnVypisStud.aspx
-__EVENTTARGET=ctl00$main$DDLObdobi
-ctl00$main$DDLObdobi=C27854
-ctl00$main$cbAktivniKDatu$cbAktivni=on
-ctl00$main$CBVysledky=on
-ctl00$main$Razeni=rbRaditDleDruhu

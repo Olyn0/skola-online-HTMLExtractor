@@ -1,6 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
-loaddata = input("napiš název souboru na data např. postdata.txt....")
+import sys
+import os
+
+loaddata = "postData/"+input("napiš název souboru na data např. postdata.txt....")
+#loaddata=("postData/postdataZpravy.txt")
 # Funkce pro načtení dat ze souboru
 def load_post_data(file_path):
     post_data = {}
@@ -22,7 +26,14 @@ def get_hidden_value(soup, name):
     return tag["value"] if tag else ""
 
 # Načtení přihlašovacích údajů
-with open("credentials.txt", "r", encoding="utf-8") as file:
+creds="credentials.txt"
+if not os.path.exists("/Users/ondrej/credentials.txt"):
+    creds = "credentials.txt"
+else:
+    creds = "/Users/ondrej/credentials.txt"
+
+
+with open(creds, "r", encoding="utf-8") as file:
     user = file.readline().strip()
     password = file.readline().strip()
 
