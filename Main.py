@@ -9,6 +9,7 @@ loaddata = "postData/"+input("napiš název souboru na data např. postdata.txt.
 def load_post_data(file_path):
     post_data = {}
     url = None
+    #test
     with open(file_path, "r", encoding="utf-8") as file:
         for line in file:
             line = line.strip()
