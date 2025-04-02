@@ -1,5 +1,5 @@
-# WIP
-#SkolaOnline HTMLExtractor
+# Projekt WIP
+## SkolaOnline HTMLExtractor
 
 ## Popis
 Tento projekt slouží k automatickému přihlašování do systému SkolaOnline a získávání dat pomocí HTTP požadavků. Skript se přihlásí pomocí uživatelských údajů, stáhne potřebné hidden input hodnoty, provede autentizaci a následně odešle požadované POST requesty pro získání dat.
